@@ -1,0 +1,1 @@
+# To loop through a code a specific number if times, we can use for loop and the range function.
