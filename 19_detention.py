@@ -2,7 +2,7 @@
 
 # The range function generates a sequence of numbers, typically starting from 0 and ending at a particular number(exclusive).
 for i in range(6):
-    print(i*2)
+    print('the square of ' + str(i) +" is " + str(i**2))
 
 
 
